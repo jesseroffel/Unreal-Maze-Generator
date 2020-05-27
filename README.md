@@ -1,4 +1,4 @@
-# Maze Traversal Visualiser
+# Unreal Maze Generator
 
 Out of interest I decided to look into maze generation algorithms and how they work and got quite excited to implement these concepts myself. With this personal project I plan to implement multiple maze generation algorithms and visualise their traversal process.
 
